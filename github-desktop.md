@@ -1,9 +1,7 @@
-#İlk PR'ım (Pull Request)
 
-###Github Desktop kullanarak ilk PR'ım
+# İlk PR'ım (Pull Request)
 
-
-
+### Github Desktop kullanarak ilk PR'ım
 
 ### Projeyi Forklama
 <img align="right" width="300" src="assets/forking.png" alt="repoyu forklama" />
