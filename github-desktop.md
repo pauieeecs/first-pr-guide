@@ -17,7 +17,7 @@ Bu işleme **fork** denir.
 
 <img align="right" width="300" src="assets/clon.png" alt="repoyu klonlama" />
 
-<img align="right" width="300" src="assets/cloning2.png" alt="repoyu klonlama 2" />
+<img align="right" width="300" src="assets/clon2.png" alt="repoyu klonlama 2" />
 
 Artık projeyi forkladığımıza göre, üzerinde çalışmak için projeyi lokalimize çekmeli, yani dosyaları indirmeliyiz.
 Bu işleme de **clone** denir.
