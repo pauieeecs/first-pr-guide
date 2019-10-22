@@ -66,3 +66,4 @@ Bu branch birleştirme işlemine ise **merge** denir (Hatta bu yüzden, bazı pl
 
 [@yunusemredilber](https://github.com/yunusemredilber "Yunus Emre Dilber")
 [@bircankut](https://github.com/bircankut "Bircan Kut")
+[@altaysimsek](https://github.com/altaysimsek "Altay Şimşek")
