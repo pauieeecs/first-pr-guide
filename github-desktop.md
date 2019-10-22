@@ -15,7 +15,8 @@ Bu işleme **fork** denir.
 
 ## Projeyi Klonlama
 
-<img align="right" width="300" src="assets/cloning.png" alt="repoyu klonlama" />
+<img align="right" width="300" src="assets/clon.png" alt="repoyu klonlama" />
+
 <img align="right" width="300" src="assets/cloning2.png" alt="repoyu klonlama 2" />
 
 Artık projeyi forkladığımıza göre, üzerinde çalışmak için projeyi lokalimize çekmeli, yani dosyaları indirmeliyiz.
@@ -25,6 +26,7 @@ Bu işleme de **clone** denir.
 ## Yeni Branch'a Geçme
 
 <img align="right" width="300" src="assets/newbranch.png" alt="yeni dal" />
+
 <img align="right" width="300" src="assets/newbranc.png" alt="yeni dal 2" />
 
 Geliştireceğimiz özellik veya yapacağımız işlem için, yeni bir branch'a geçmeliyiz.
