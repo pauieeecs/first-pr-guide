@@ -4,7 +4,9 @@
 ### Github Desktop kullanarak ilk PR'ım
 
 ### Projeyi Forklama
+
 <img align="right" width="300" src="assets/forking.png" alt="repoyu forklama" />
+
 GitHubda, herhangi bir açık kaynak projenin kopyasını, kendi hesabımıza ekleyebiliriz.
 Bu işleme **fork** denir.
 
@@ -12,6 +14,7 @@ Bu işleme **fork** denir.
 
 
 ## Projeyi Klonlama
+
 <img align="right" width="300" src="assets/cloning.png" alt="repoyu klonlama" />
 <img align="right" width="300" src="assets/cloning2.png" alt="repoyu klonlama 2" />
 
