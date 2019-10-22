@@ -9,10 +9,6 @@
 
 GitHubda, herhangi bir açık kaynak projenin kopyasını, kendi hesabımıza ekleyebiliriz.
 Bu işleme **fork** denir.
-
-
-
-
 ## Projeyi Klonlama
 
 <img align="right" width="300" src="assets/clon.png" alt="repoyu klonlama" />
