@@ -1,3 +1,4 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
 # İlk PR'ım (Pull Request)
 
@@ -5,68 +6,32 @@
 
 ## Projeyi Forklama
 
-![Image of Yaktocat](assets/forking.png)
-
+![Image of forking](assets/forking.png)
 
 GitHubda, herhangi bir açık kaynak projenin kopyasını, kendi hesabımıza ekleyebiliriz.
 Bu işleme **fork** denir.
 
 ## Projeyi Klonlama
 
-
-
-
-
-
-
-![Image of Yaktocat](assets/clon.png)
-
-
-
-
-
-
-<img align="right" width="300" src="assets/clon2.png" alt="repoyu klonlama 2" />
-
-
-
-
-
-
-
 Artık projeyi forkladığımıza göre, üzerinde çalışmak için projeyi lokalimize çekmeli, yani dosyaları indirmeliyiz.
 Bu işleme de **clone** denir.
 
+![Image of cloning](assets/clon.png)
+
+![Image of cloning](assets/clon2.png)
+
 ## Yeni Branch'a Geçme
-
-
-
-
-
-
-<img align="right" width="300" src="assets/newbranch.png" alt="yeni dal" />
-
-
-
-
-
-
-
-
-<img align="right" width="300" src="assets/newbranc.png" alt="yeni dal 2" />
-
-
-
-
-
-
-
 
 Geliştireceğimiz özellik veya yapacağımız işlem için, yeni bir branch'a geçmeliyiz.
 Branch, aynı repo üzerinde, kendimizde özel bir dallanmadır.
 Bu dalda geçerek, orjinal dala zarar vermeden veya başka birinin kodumuzu değişikliğe uğratma kaygısı olmadan çalışabiliriz.
 
 Şimdi add_*kullanıcı_adınız* isimli bi branch oluşturup bu brancha geçelim:
+
+![Image of newbranch](assets/newbranch.png)
+
+![Image of newbranc](assets/newbranc.png)
+
 
 ## Gerekli değişiklikleri yapıp bu değişiklikleri commitleme
 
@@ -75,16 +40,7 @@ Artık tek yapmamız gereken kodda gerekli değişiklikleri yapmak.
     README.md dosyasının sonuna ekleyiniz.
     [@isminiz](https://github.com/isminiz "İsminiz")
 
-
-
-
-<img align="right" width="300" src="assets/commit.png" alt="commit" />
-
-
-
-
-
-
+![Image of commit](assets/commit.png)
 
 Gerekli değişiklikleri istediğimiz herhangi bir text editörü veya IDE'de yaptıktan sonra, bu değişikikleri commitliyoruz.
 
@@ -94,40 +50,16 @@ Bu işaretler sayesinde nerde neyin yapıldığını inceleyebilir veya istersek
 Şimdi kullanıcı adımızı ve linkimizi ekleyip commitleyelim.
 Commit mesajımıza ise "Add *kullanıcı_adınız* info" yazalım:
 
-
-
-
-
-
 ### Değişiklikleri GitHub'a Pushlama
-
-
-
-
-
-<img align="right" width="300" src="assets/push.png" alt="push" />
-
-
-
-
-
 
 Lokalimizde yaptığımız değişiklikleri GitHubdaki repomuza gönderebiliriz.
 Bu gönderme işlemine ise **push** denir.
 
 Değişikliklerimizi pushlayalım:
 
+![Image of cloning](assets/push.png)
 
 ### Pull Request (PR) Açma
-
-<img align="right" width="300" src="assets/pr.png" alt="pr" />
-
-
-
-<img align="right" width="300" src="assets/pr2.png" alt="pr" />
-
-
-
 
 Artık tek yapmamız gereken, kendi forkumuzdaki branch'ı, orjinal repoyla birleştirmek.
 Ama tabiki proje bizim olmadığı için bu işi pat diye yapamayız (Ama nazikçe isteyebiliriz :smile: ).
@@ -137,8 +69,14 @@ Bu branch birleştirme işlemine ise **merge** denir (Hatta bu yüzden, bazı pl
 
 Şimdi, ilk Pull Requestimizi açalım:
 
+![Image of cloning](assets/pr.png)
+
+
+
+![Image of cloning](assets/pr2.png)
+
 ---
-[@yunusemredilber](https://github.com/yunusemredilber "Yunus Emre Dilber")
+
 
 
 
