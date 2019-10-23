@@ -12,17 +12,54 @@ Bu işleme **fork** denir.
 
 ## Projeyi Klonlama
 
+
+
+
+
+
+
 <img align="right" width="300" src="assets/clon.png" alt="repoyu klonlama" />
+
+
+
+
+
+
 <img align="right" width="300" src="assets/clon2.png" alt="repoyu klonlama 2" />
+
+
+
+
+
+
 
 Artık projeyi forkladığımıza göre, üzerinde çalışmak için projeyi lokalimize çekmeli, yani dosyaları indirmeliyiz.
 Bu işleme de **clone** denir.
 
 ## Yeni Branch'a Geçme
 
+
+
+
+
+
 <img align="right" width="300" src="assets/newbranch.png" alt="yeni dal" />
 
+
+
+
+
+
+
+
 <img align="right" width="300" src="assets/newbranc.png" alt="yeni dal 2" />
+
+
+
+
+
+
+
 
 Geliştireceğimiz özellik veya yapacağımız işlem için, yeni bir branch'a geçmeliyiz.
 Branch, aynı repo üzerinde, kendimizde özel bir dallanmadır.
@@ -37,7 +74,16 @@ Artık tek yapmamız gereken kodda gerekli değişiklikleri yapmak.
     README.md dosyasının sonuna ekleyiniz.
     [@isminiz](https://github.com/isminiz "İsminiz")
 
+
+
+
 <img align="right" width="300" src="assets/commit.png" alt="commit" />
+
+
+
+
+
+
 
 Gerekli değişiklikleri istediğimiz herhangi bir text editörü veya IDE'de yaptıktan sonra, bu değişikikleri commitliyoruz.
 
@@ -49,20 +95,38 @@ Commit mesajımıza ise "Add *kullanıcı_adınız* info" yazalım:
 
 
 
+
+
+
 ### Değişiklikleri GitHub'a Pushlama
 
+
+
+
+
 <img align="right" width="300" src="assets/push.png" alt="push" />
+
+
+
+
+
 
 Lokalimizde yaptığımız değişiklikleri GitHubdaki repomuza gönderebiliriz.
 Bu gönderme işlemine ise **push** denir.
 
 Değişikliklerimizi pushlayalım:
 
-------------
+
 ### Pull Request (PR) Açma
 
 <img align="right" width="300" src="assets/pr.png" alt="pr" />
+
+
+
 <img align="right" width="300" src="assets/pr2.png" alt="pr" />
+
+
+
 
 Artık tek yapmamız gereken, kendi forkumuzdaki branch'ı, orjinal repoyla birleştirmek.
 Ama tabiki proje bizim olmadığı için bu işi pat diye yapamayız (Ama nazikçe isteyebiliriz :smile: ).
