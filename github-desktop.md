@@ -3,21 +3,20 @@
 
 ### Github Desktop kullanarak ilk PR'ım
 
-### Projeyi Forklama
+## Projeyi Forklama
 
 <img align="right" width="300" src="assets/forking.png" alt="repoyu forklama" />
 
 GitHubda, herhangi bir açık kaynak projenin kopyasını, kendi hesabımıza ekleyebiliriz.
 Bu işleme **fork** denir.
+
 ## Projeyi Klonlama
 
 <img align="right" width="300" src="assets/clon.png" alt="repoyu klonlama" />
-
 <img align="right" width="300" src="assets/clon2.png" alt="repoyu klonlama 2" />
 
 Artık projeyi forkladığımıza göre, üzerinde çalışmak için projeyi lokalimize çekmeli, yani dosyaları indirmeliyiz.
 Bu işleme de **clone** denir.
-
 
 ## Yeni Branch'a Geçme
 
@@ -30,7 +29,6 @@ Branch, aynı repo üzerinde, kendimizde özel bir dallanmadır.
 Bu dalda geçerek, orjinal dala zarar vermeden veya başka birinin kodumuzu değişikliğe uğratma kaygısı olmadan çalışabiliriz.
 
 Şimdi add_*kullanıcı_adınız* isimli bi branch oluşturup bu brancha geçelim:
-
 
 ## Gerekli değişiklikleri yapıp bu değişiklikleri commitleme
 
@@ -60,10 +58,8 @@ Bu gönderme işlemine ise **push** denir.
 
 Değişikliklerimizi pushlayalım:
 
-
 ------------
 ### Pull Request (PR) Açma
-
 
 <img align="right" width="300" src="assets/pr.png" alt="pr" />
 <img align="right" width="300" src="assets/pr2.png" alt="pr" />
