@@ -5,7 +5,8 @@
 
 ## Projeyi Forklama
 
-<img align="right" width="300" src="assets/forking.png" alt="repoyu forklama" />
+![Image of Yaktocat](assets/forking.png)
+
 
 GitHubda, herhangi bir açık kaynak projenin kopyasını, kendi hesabımıza ekleyebiliriz.
 Bu işleme **fork** denir.
@@ -18,7 +19,7 @@ Bu işleme **fork** denir.
 
 
 
-<img align="right" width="300" src="assets/clon.png" alt="repoyu klonlama" />
+![Image of Yaktocat](assets/clon.png)
 
 
 
