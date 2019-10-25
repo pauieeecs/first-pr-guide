@@ -20,6 +20,12 @@ Bu işleme **fork** denir.
 
 Şimdi biz de bu projeyi forkluyoruz:
 
+![alt text](assets/github_desktop/1.png)
+
+![alt text](assets/github_desktop/2.png)
+
+![alt text](assets/github_desktop/3.png)
+
 ### Projeyi Klonlama
 
 Artık projeyi forkladığımıza göre, üzerinde çalışmak için projeyi lokalimize çekmeli, yani dosyaları indirmeliyiz.
@@ -29,11 +35,23 @@ Forkladığımız projeyi lokalimize klonlayalım:
 
 **Github Destkop**
 
+![alt text](assets/github_desktop/4.png)
+
+![alt text](assets/github_desktop/5%20.PNG)
+
+![alt text](assets/github_desktop/6.png)
+
+![alt text](assets/github_desktop/7.png)
+
 **Komut Satırı**
+
+![alt text](assets/github_desktop/githubb-01.png)
 
 Gösterilen yerdeki kodu kopyalayınız.
 
 `> git clone <kopyaladığınız_ifade>`
+
+`> cd first-pr-guide`
 
 ### Yeni Branch'a Geçme
 
@@ -44,6 +62,10 @@ Bu dalda geçerek, orjinal dala zarar vermeden veya başka birinin kodumuzu değ
 Şimdi add_*kullanıcı_adınız* isimli bi branch oluşturup bu brancha geçelim:
 
 **Github Destkop**
+
+![alt text](assets/github_desktop/8.png)
+
+![alt text](assets/github_desktop/9.png)
 
 **Komut Satırı**
 
@@ -61,6 +83,8 @@ Commit mesajımıza ise "Add *kullanıcı_adınız* info" yazalım:
 
 **Github Destkop**
 
+![alt text](assets/github_desktop/10.png)
+
 **Komut Satırı**
 
 `> git add .`
@@ -74,6 +98,10 @@ Bu gönderme işlemine ise **push** denir.
 Değişikliklerimizi pushlayalım:
 
 **Github Destkop**
+
+![alt text](assets/github_desktop/11.png)
+
+![alt text](assets/github_desktop/12.png)
 
 **Komut Satırı**
 
@@ -94,6 +122,10 @@ Ama tabiki proje bizim olmadığı için bu işi pat diye yapamayız (Ama nazik�
 Bu branch birleştirme işlemine ise **merge** denir (Hatta bu yüzden, bazı platformlar pull request'e *merge request* der).
 
 Şimdi, ilk Pull Requestimizi açalım:
+
+![alt text](assets/github_desktop/13.png)
+
+![alt text](assets/github_desktop/14.png)
 
 ---
 
