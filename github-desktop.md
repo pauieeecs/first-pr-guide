@@ -2,32 +2,25 @@
 
 # İlk PR'ım (Pull Request)
 
-## Türkçe
+### Github Desktop kullanarak ilk PR'ım
 
-Bu repo, açık kaynak bir projeye katkı sağlamak isteyen kişinin ilk PR'ını atmasına yardımcı olmayı amaçlar.
+## Projeyi Forklama
 
-Açık kaynak bir projeye destek vermeye karar verdiğinizde, nereden başlayacağınızı bilememeniz normaldir.
-İlk seferinizde, birçok insanın çalıştığı bir projeye girmek de gözünüzü korkutabilir.
-Bu reponun amacı, ilk seferinizde size yol gösterici olmak ve sizi bir *Açık Kaynak Geliştiricisi* yapmaktır.
-Şunu unutmayın ki, ilk seferinizde hata yapmak oldukça doğaldır ve kimse sizi yadırgamaz. (Yadırgayan olursa da bu onların yanlışıdır)
-
-Gelin şimdi ilk katkınızı, bu repoya kullanıcı adınızı ekleyen bir PR atarak başlayalım.
-
-### Projeyi Forklama
+![Image of forking](assets/forking.png)
 
 GitHubda, herhangi bir açık kaynak projenin kopyasını, kendi hesabımıza ekleyebiliriz.
 Bu işleme **fork** denir.
 
-Şimdi biz de bu projeyi forkluyoruz:
-
-### Projeyi Klonlama
+## Projeyi Klonlama
 
 Artık projeyi forkladığımıza göre, üzerinde çalışmak için projeyi lokalimize çekmeli, yani dosyaları indirmeliyiz.
 Bu işleme de **clone** denir.
 
-Forkladığımız projeyi lokalimize klonlayalım:
+![Image of cloning](assets/clon.png)
 
-### Yeni Branch'a Geçme
+![Image of cloning](assets/clon2.png)
+
+## Yeni Branch'a Geçme
 
 Geliştireceğimiz özellik veya yapacağımız işlem için, yeni bir branch'a geçmeliyiz.
 Branch, aynı repo üzerinde, kendimizde özel bir dallanmadır.
@@ -35,10 +28,22 @@ Bu dalda geçerek, orjinal dala zarar vermeden veya başka birinin kodumuzu değ
 
 Şimdi add_*kullanıcı_adınız* isimli bi branch oluşturup bu brancha geçelim:
 
-### Gerekli değişiklikleri yapıp bu değişiklikleri commitleme
+![Image of newbranch](assets/newbranch.png)
+
+![Image of newbranc](assets/newbranc.png)
+
+
+## Gerekli değişiklikleri yapıp bu değişiklikleri commitleme
 
 Artık tek yapmamız gereken kodda gerekli değişiklikleri yapmak.
+
+    README.md dosyasının sonuna ekleyiniz.
+    [@isminiz](https://github.com/isminiz "İsminiz")
+
+![Image of commit](assets/commit.png)
+
 Gerekli değişiklikleri istediğimiz herhangi bir text editörü veya IDE'de yaptıktan sonra, bu değişikikleri commitliyoruz.
+
 Commitleri, kodun gelişim çizelgesindeki işaretlemelere benzetebilirsiniz.
 Bu işaretler sayesinde nerde neyin yapıldığını inceleyebilir veya istersek bu işaretlemeler geri dönebiliriz.
 
@@ -52,6 +57,8 @@ Bu gönderme işlemine ise **push** denir.
 
 Değişikliklerimizi pushlayalım:
 
+![Image of cloning](assets/push.png)
+
 ### Pull Request (PR) Açma
 
 Artık tek yapmamız gereken, kendi forkumuzdaki branch'ı, orjinal repoyla birleştirmek.
@@ -62,8 +69,17 @@ Bu branch birleştirme işlemine ise **merge** denir (Hatta bu yüzden, bazı pl
 
 Şimdi, ilk Pull Requestimizi açalım:
 
+![Image of cloning](assets/pr.png)
+
+
+
+![Image of cloning](assets/pr2.png)
+
 ---
 
-[@yunusemredilber](https://github.com/yunusemredilber "Yunus Emre Dilber")
-[@bircankut](https://github.com/bircankut "Bircan Kut")
-[@altaysimsek](https://github.com/altaysimsek "Altay Şimşek")
+
+
+
+
+
+
