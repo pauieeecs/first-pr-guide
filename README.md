@@ -27,6 +27,14 @@ Bu işleme de **clone** denir.
 
 Forkladığımız projeyi lokalimize klonlayalım:
 
+**Github Destkop**
+
+**Komut Satırı**
+
+Gösterilen yerdeki kodu kopyalayınız.
+
+`> git clone <kopyaladığınız_ifade>`
+
 ### Yeni Branch'a Geçme
 
 Geliştireceğimiz özellik veya yapacağımız işlem için, yeni bir branch'a geçmeliyiz.
@@ -34,6 +42,12 @@ Branch, aynı repo üzerinde, kendimizde özel bir dallanmadır.
 Bu dalda geçerek, orjinal dala zarar vermeden veya başka birinin kodumuzu değişikliğe uğratma kaygısı olmadan çalışabiliriz.
 
 Şimdi add_*kullanıcı_adınız* isimli bi branch oluşturup bu brancha geçelim:
+
+**Github Destkop**
+
+**Komut Satırı**
+
+`> git checkout -b add_<kullanıcı_adınız>`
 
 ### Gerekli değişiklikleri yapıp bu değişiklikleri commitleme
 
@@ -45,12 +59,31 @@ Bu işaretler sayesinde nerde neyin yapıldığını inceleyebilir veya istersek
 Şimdi kullanıcı adımızı ve linkimizi ekleyip commitleyelim.
 Commit mesajımıza ise "Add *kullanıcı_adınız* info" yazalım:
 
+**Github Destkop**
+
+**Komut Satırı**
+
+`> git add .`
+`> git commit -m "Add <kullanıcı_adınız> info"`
+
 ### Değişiklikleri GitHub'a Pushlama
 
 Lokalimizde yaptığımız değişiklikleri GitHubdaki repomuza gönderebiliriz.
 Bu gönderme işlemine ise **push** denir.
 
 Değişikliklerimizi pushlayalım:
+
+**Github Destkop**
+
+**Komut Satırı**
+
+`> git push`
+
+Bu komuttan sonra git bize hata verip asıl çalıştırmamız gereken komutu vericek.
+Bu komutu kopyalayıp çalıştıralım.
+
+Bize gelen çıktıda pr açmamız için gerekli link de gelicek.
+Bu linke tıklayarak pr açma sayfasınza gidebiliriz.
 
 ### Pull Request (PR) Açma
 
